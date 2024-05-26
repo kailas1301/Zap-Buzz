@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619446117462",
+    "project_id": "zap-buzz",
+    "storage_bucket": "zap-buzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619446117462:android:d293177d810f77d09fc7f7",
+        "android_client_info": {
+          "package_name": "com.example.zapbuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaopZ5kC789ZOo6SOyWE4qvVV297Eov8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
